@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194501453992",
+    "project_id": "kristo-274cd",
+    "storage_bucket": "kristo-274cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194501453992:android:ed12ada43273aa342aba9d",
+        "android_client_info": {
+          "package_name": "com.kristo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-FPaLP0YLQ46MrnBCQfhxc6PUTGg1A7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

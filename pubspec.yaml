@@ -1,0 +1,35 @@
+name: kristo
+description: Kristo video app - phone login + video upload/play.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # Firebase
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.15.5
+  firebase_storage: ^11.6.6
+
+  # Video + media
+  video_player: ^2.8.2
+  image_picker: ^1.0.7
+  file_picker: ^6.1.1
+
+  # State handling (simple, beginner friendly)
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
